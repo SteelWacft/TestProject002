@@ -1,0 +1,68 @@
+html{
+    color: yellow;
+    background-color: darkblue;
+}
+.title{
+    text-align: center;
+}
+.logpop{
+    background: 10px white;
+    height: 278px;
+    width: 225px;
+    position: absolute;
+    left: 46.7%;
+    top: 30%;
+    border-radius: 5px;
+    background: rgb(4, 124, 172);
+}
+.userl{
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 120px;
+    width: 50%;
+    background: rgb(251, 36, 36);
+}
+.passl{
+    text-align: center;
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 160px;
+    width: 50%;
+    background: rgb(251, 36, 36);
+}
+.subl{
+    width: 95%;
+    margin-top: 85%;
+    margin-left: 5px;
+    background: rgb(5, 141, 251);
+    color: white;
+    height: 30px;
+    position: absolute;
+    border-radius: 4px;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+.guestimg{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 65px;
+    margin-top: 1%;
+}
+.check1{
+    margin-left: 165px;
+    position: absolute;
+    margin-top: 118px;
+    width: 25px;
+    height: 25px;
+}
+.check2{
+    margin-left: 165px;
+    position: absolute;
+    margin-top: 158px;
+    width: 25px;
+    height: 25px;
+}
